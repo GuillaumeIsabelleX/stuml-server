@@ -1,3 +1,13 @@
+STUml-Server
+=======
+* STUml.Server@v Server for Structural Diagramming Representation of Charting 
+* @a Install the Source and have a compiled version
+* @cr Checked out on JGMAC:/Users/jgi/stuml/src/server
+
+
+
+
+_____
 PlantUML Server 
 ===============
 [![Build Status](https://travis-ci.org/plantuml/plantuml-server.png?branch=master)](https://travis-ci.org/plantuml/plantuml-server)
